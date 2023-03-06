@@ -1,18 +1,18 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "clearvision.v6",
+  "name": "ClearVision v6",
+  "description": "A highly customizable theme made for the stable Discord release stream.",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "The ClearVision Team",
+    "discordID": "393900343135830016",
+    "github": "ClearVision"
   },
-  "version": "1.0.0",
+  "version": "6.3.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "ClearVision/ClearVision/CV-Replugged"
   },
-  "license": "MIT",
+  "license": "Apache 2.0",
   "type": "replugged-theme",
   "main": "src/main.css"
 }

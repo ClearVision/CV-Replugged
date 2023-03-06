@@ -29,7 +29,7 @@ Please join the Clearvision support server for more details as a temporary solut
 
 ## Installing
 
-To install to Replugged, follow this [link](https://replugged.dev/install?identifier=ClearVision/CV-Replugged&source=github\)
+To install to Replugged, follow this [link](https://replugged.dev/install?identifier=ClearVision/CV-Replugged&source=github)
 
 ## Building from source
 

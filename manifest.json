@@ -10,7 +10,7 @@
   "version": "6.3.0",
   "updater": {
     "type": "github",
-    "id": "ClearVisionCV-Replugged"
+    "id": "ClearVision/CV-Replugged"
   },
   "license": "Apache 2.0",
   "type": "replugged-theme",

@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
-  "version": "1.0.0",
-  "description": "A theme template",
+  "name": "ClearVision v6",
+  "version": "6.3.0",
+  "description": "A highly customizable theme made for the stable Discord release stream.",
   "engines": {
     "node": ">=14.0.0"
   },
@@ -13,8 +13,8 @@
     "lint:fix": "prettier ./src --write"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "The Clearvision Team",
+  "license": "Apache 2.0",
   "devDependencies": {
     "@parcel/config-default": "^2.8.3",
     "@parcel/core": "^2.8.3",

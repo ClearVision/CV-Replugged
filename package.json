@@ -3,7 +3,7 @@
   "version": "6.3.1",
   "description": "A highly customizable theme made for the stable Discord release stream.",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "build": "replugged build theme",

@@ -37,11 +37,8 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@codemirror/autocomplete/6.4.0_rsioiiskaev4tegb7cvjmtkkci:
+  /@codemirror/autocomplete/6.4.0:
     resolution: {integrity: sha512-HLF2PnZAm1s4kGs30EiqKMgD7XsYaQ0XJnMR0rofEWQ5t5D60SfqpDIkIh1ze5tiEbyUWm8+VJ6W1/erVvBMIA==}
-    peerDependencies:
-      '@codemirror/language': ^6.0.0
-      '@codemirror/state': ^6.0.0
     dependencies:
       '@codemirror/language': 6.4.0
       '@codemirror/state': 6.2.0
@@ -61,7 +58,7 @@ packages:
   /@codemirror/lang-css/6.0.2:
     resolution: {integrity: sha512-4V4zmUOl2Glx0GWw0HiO1oGD4zvMlIQ3zx5hXOE6ipCjhohig2bhWRAasrZylH9pRNTcl1VMa59Lsl8lZWlTzw==}
     dependencies:
-      '@codemirror/autocomplete': 6.4.0_rsioiiskaev4tegb7cvjmtkkci
+      '@codemirror/autocomplete': 6.4.0
       '@codemirror/language': 6.4.0
       '@codemirror/state': 6.2.0
       '@lezer/css': 1.1.1
@@ -1475,7 +1472,7 @@ packages:
   /codemirror/6.0.1:
     resolution: {integrity: sha512-J8j+nZ+CdWmIeFIGXEFbFPtpiYacFMDR8GlHK3IyHQJMCaVRfGx9NT+Hxivv1ckLWPvNdZqndbr/7lVhrf/Svg==}
     dependencies:
-      '@codemirror/autocomplete': 6.4.0_rsioiiskaev4tegb7cvjmtkkci
+      '@codemirror/autocomplete': 6.4.0
       '@codemirror/commands': 6.2.0
       '@codemirror/language': 6.4.0
       '@codemirror/lint': 6.1.0

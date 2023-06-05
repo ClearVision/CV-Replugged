@@ -3,7 +3,8 @@
   "version": "6.3.1",
   "description": "A highly customizable theme made for the stable Discord release stream.",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
   },
   "scripts": {
     "build": "replugged build theme",
@@ -18,8 +19,8 @@
   "devDependencies": {
     "@parcel/config-default": "^2.8.3",
     "@parcel/core": "^2.8.3",
-    "@types/node": "^18.11.15",
-    "prettier": "^2.8.1",
-    "replugged": "4.0.0"
+    "@types/node": "^18.15.11",
+    "prettier": "^2.8.8",
+    "replugged": "^4.3.0"
   }
 }

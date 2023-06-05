@@ -7,10 +7,10 @@
     "discordID": "393900343135830016",
     "github": "ClearVision"
   },
-  "version": "6.3.0",
+  "version": "6.3.0.1",
   "updater": {
-    "type": "github",
-    "id": "ClearVision/CV-Replugged"
+    "type": "store",
+    "id": "com.clearvision.v6"
   },
   "license": "Apache 2.0",
   "type": "replugged-theme",

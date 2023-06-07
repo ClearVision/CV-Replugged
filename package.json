@@ -1,6 +1,6 @@
 {
   "name": "ClearVision v6",
-  "version": "6.3.0",
+  "version": "6.3.1",
   "description": "A highly customizable theme made for the stable Discord release stream.",
   "engines": {
     "node": ">=18.0.0",
@@ -21,6 +21,6 @@
     "@parcel/core": "^2.8.3",
     "@types/node": "^18.15.11",
     "prettier": "^2.8.8",
-    "replugged": "4.2.x"
+    "replugged": "^4.3.1"
   }
 }

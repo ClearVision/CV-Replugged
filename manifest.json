@@ -7,12 +7,14 @@
     "discordID": "393900343135830016",
     "github": "ClearVision"
   },
-  "version": "6.3.1",
+  "version": "6.3.2",
   "updater": {
     "type": "store",
     "id": "com.clearvision.v6"
   },
   "license": "Apache 2.0",
   "type": "replugged-theme",
+  "image": "https://i.imgur.com/hXztulo.png",
+  "source": "https://github.com/ClearVision/ClearVision-v6",
   "main": "src/main.css"
 }
